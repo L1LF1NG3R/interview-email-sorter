@@ -4,7 +4,7 @@ a python script that automatically scans emails related to job interviews in gma
 # important notes
 use this script at your own risk because it requires that your credentials to be hardcoded.
 
-this script requires 2FA to be enabled to acquire app password. HOWEVER, this code BYPASSES 2FA.
+this script requires 2FA to be enabled to acquire app password.
 
 if your app password has been accidentally exposed, please change it at "https://myaccount.google.com/apppasswords".
 
